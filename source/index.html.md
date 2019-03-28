@@ -45,6 +45,7 @@ includes:
   - companies_news
   - corp_actions
   - symbol_quant
+  - dividends
   - errors
 
 search: true
