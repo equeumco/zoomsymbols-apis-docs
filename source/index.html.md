@@ -49,6 +49,7 @@ includes:
   - symbol_mover
   - symbol_securities
   - symbol_prices
+  - exchanges
   - errors
 
 search: true

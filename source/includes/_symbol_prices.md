@@ -86,7 +86,7 @@ field: your_field (e.g 'px_close')
 Returns all charts for a given symbol id.
 
 ```APIs
-https://dev.zoomsymbols.com/api/symbol-prices/getCharts
+GET https://dev.zoomsymbols.com/api/symbol-prices/getCharts
 ```
 
 > Parameters
