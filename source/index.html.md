@@ -43,6 +43,7 @@ includes:
   - search
   - today
   - companies_news
+  - corp_actions
   - errors
 
 search: true
