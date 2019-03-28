@@ -42,6 +42,7 @@ includes:
   - owners
   - search
   - today
+  - companies_news
   - errors
 
 search: true
