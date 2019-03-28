@@ -46,6 +46,7 @@ includes:
   - corp_actions
   - symbol_quant
   - dividends
+  - symbol_mover
   - errors
 
 search: true

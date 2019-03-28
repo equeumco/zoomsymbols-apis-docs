@@ -52,9 +52,9 @@ GET https://dev.zoomsymbols.com/api/dividends/getDividends
 }
 ```
 
-## Get Dividends
+## Get Dividends Sort
 
-Returns all dividends.
+Returns all dividends (sorted).
 
 ```APIs
 GET https://dev.zoomsymbols.com/api/dividends/getDividendsSort
