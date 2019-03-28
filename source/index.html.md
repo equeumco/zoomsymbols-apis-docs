@@ -50,6 +50,7 @@ includes:
   - symbol_securities
   - symbol_prices
   - exchanges
+  - symbol_peers
   - errors
 
 search: true
