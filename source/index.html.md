@@ -48,6 +48,7 @@ includes:
   - dividends
   - symbol_mover
   - symbol_securities
+  - symbol_prices
   - errors
 
 search: true
