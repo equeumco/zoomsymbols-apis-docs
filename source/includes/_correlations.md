@@ -90,7 +90,7 @@ type: your_type
 }
 ```
 
-## List (Correlations)
+## Get Correlations
 
 Returns a list of all correlations depending on a given type.
 
