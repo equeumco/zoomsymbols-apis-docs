@@ -51,6 +51,7 @@ includes:
   - symbol_prices
   - exchanges
   - symbol_peers
+  - correlations
   - errors
 
 search: true
